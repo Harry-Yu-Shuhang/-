@@ -1,5 +1,5 @@
-使用Qt C++开发的费用计算器，用于申报国家项目
+Cost calculator developed using Qt C++, used to apply for national projects
 
-.pro.user文件可能需要删掉，photo下面的1是空文件
+The .pro.user file may need to be deleted, and the 1 under photo is an empty file
 
-该程序已打包发布。用的emiga virtual box打包的，有空想起来的时候我来传一下
+The program has been packaged and released. It is packaged using emiga virtual box
